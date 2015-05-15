@@ -1,0 +1,320 @@
+Started logging...
+
+2015-04-26 20:13:48 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-04-26 20:13:48 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-04-26 20:13:50 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-04-26 20:13:50 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-04-26 20:13:51 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-04-26 20:13:51 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-04-26 20:13:52 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-04-26 20:13:52 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-04-26 20:13:53 | IP NOT FOUND! REBOOT IN 26 seconds
+2015-04-26 20:13:53 | IP NOT FOUND! REBOOT IN 26 seconds
+2015-04-26 20:13:54 | IP NOT FOUND! REBOOT IN 25 seconds
+2015-04-26 20:13:54 | IP NOT FOUND! REBOOT IN 25 seconds
+2015-04-26 20:13:55 | IP found after 5 seconds!: My IP is 10.0.3.228
+2015-04-26 20:13:55 | IP found after 5 seconds!: My IP is 10.0.3.228
+
+
+IP done, continueing to configs.2015-04-26 20:13:56 | Installing config files
+2015-04-26 20:13:57 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-04-26 20:13:57 | Installing RC.LOCAL IN /etc/rc.local...
+2015-04-26 20:13:57 | DONE Installing config files
+Initializing BCM
+Starting motion
+Started logging...
+
+2015-04-26 20:17:28 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-04-26 20:17:28 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-04-26 20:17:29 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-04-26 20:17:29 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-04-26 20:17:30 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-04-26 20:17:30 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-04-26 20:17:31 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-04-26 20:17:31 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-04-26 20:17:32 | IP NOT FOUND! REBOOT IN 26 seconds
+2015-04-26 20:17:32 | IP NOT FOUND! REBOOT IN 26 seconds
+2015-04-26 20:17:33 | IP NOT FOUND! REBOOT IN 25 seconds
+2015-04-26 20:17:33 | IP NOT FOUND! REBOOT IN 25 seconds
+2015-04-26 20:17:34 | IP found after 5 seconds!: My IP is 10.0.3.228
+2015-04-26 20:17:34 | IP found after 5 seconds!: My IP is 10.0.3.228
+
+
+IP done, continueing to configs.2015-04-26 20:17:36 | Installing config files
+2015-04-26 20:17:36 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-04-26 20:17:36 | Installing RC.LOCAL IN /etc/rc.local...
+2015-04-26 20:17:36 | DONE Installing config files
+Initializing BCM
+Starting motion
+Started logging...
+
+2015-04-26 20:45:06 | IP found: My IP is 10.0.3.228
+2015-04-26 20:45:06 | IP found: My IP is 10.0.3.228
+
+
+IP done, continueing to configs.2015-04-26 20:45:09 | Installing config files
+2015-04-26 20:45:09 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-04-26 20:45:09 | Installing RC.LOCAL IN /etc/rc.local...
+2015-04-26 20:45:09 | DONE Installing config files
+Initializing BCM
+Starting motion
+Started logging...
+
+2015-04-26 20:48:21 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-04-26 20:48:21 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-04-26 20:48:23 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-04-26 20:48:23 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-04-26 20:48:24 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-04-26 20:48:24 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-04-26 20:48:25 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-04-26 20:48:25 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-04-26 20:48:26 | IP NOT FOUND! REBOOT IN 26 seconds
+2015-04-26 20:48:26 | IP NOT FOUND! REBOOT IN 26 seconds
+2015-04-26 20:48:27 | IP NOT FOUND! REBOOT IN 25 seconds
+2015-04-26 20:48:27 | IP NOT FOUND! REBOOT IN 25 seconds
+2015-04-26 20:48:28 | IP NOT FOUND! REBOOT IN 24 seconds
+2015-04-26 20:48:28 | IP NOT FOUND! REBOOT IN 24 seconds
+2015-04-26 20:48:29 | IP NOT FOUND! REBOOT IN 23 seconds
+2015-04-26 20:48:29 | IP NOT FOUND! REBOOT IN 23 seconds
+2015-04-26 20:48:30 | IP NOT FOUND! REBOOT IN 22 seconds
+2015-04-26 20:48:30 | IP NOT FOUND! REBOOT IN 22 seconds
+2015-04-26 20:48:31 | IP NOT FOUND! REBOOT IN 21 seconds
+2015-04-26 20:48:31 | IP NOT FOUND! REBOOT IN 21 seconds
+2015-04-26 20:48:32 | IP NOT FOUND! REBOOT IN 20 seconds
+2015-04-26 20:48:32 | IP NOT FOUND! REBOOT IN 20 seconds
+2015-04-26 20:48:33 | IP NOT FOUND! REBOOT IN 19 seconds
+2015-04-26 20:48:33 | IP NOT FOUND! REBOOT IN 19 seconds
+2015-04-26 20:48:34 | IP found after 11 seconds!: My IP is 10.0.3.228
+2015-04-26 20:48:34 | IP found after 11 seconds!: My IP is 10.0.3.228
+
+
+IP done, continueing to configs.2015-04-26 20:48:36 | Installing config files
+2015-04-26 20:48:36 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-04-26 20:48:36 | Installing RC.LOCAL IN /etc/rc.local...
+2015-04-26 20:48:36 | DONE Installing config files
+Initializing BCM
+Starting motion
+Started logging...
+
+2015-04-26 22:17:29 | IP found: My IP is 10.0.3.228
+2015-04-26 22:17:29 | IP found: My IP is 10.0.3.228
+
+
+IP done, continueing to configs.2015-04-26 22:17:30 | Installing config files
+2015-04-26 22:17:30 | DONE Installing config files
+Initializing BCM
+Starting motion
+Started logging...
+
+2015-04-27 21:17:28 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-04-27 21:17:28 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-04-27 21:17:29 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-04-27 21:17:29 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-04-27 21:17:30 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-04-27 21:17:30 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-04-27 21:17:31 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-04-27 21:17:31 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-04-27 21:17:32 | IP found after 3 seconds!: My IP is 10.0.3.228
+2015-04-27 21:17:32 | IP found after 3 seconds!: My IP is 10.0.3.228
+
+
+IP done, continue to configs.2015-04-27 21:17:35 | Installing config files
+2015-04-27 21:17:35 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-04-27 21:17:35 | Installing RC.LOCAL IN /etc/rc.local...
+2015-04-27 21:17:35 | DONE Installing config files
+Initializing BCM
+Starting motion
+Started logging...
+
+2015-04-28 22:17:26 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-04-28 22:17:26 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-04-28 22:17:28 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-04-28 22:17:28 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-04-28 22:17:29 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-04-28 22:17:29 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-04-28 22:17:30 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-04-28 22:17:30 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-04-28 22:17:31 | IP NOT FOUND! REBOOT IN 26 seconds
+2015-04-28 22:17:31 | IP NOT FOUND! REBOOT IN 26 seconds
+2015-04-28 22:17:32 | IP NOT FOUND! REBOOT IN 25 seconds
+2015-04-28 22:17:32 | IP NOT FOUND! REBOOT IN 25 seconds
+2015-04-28 22:17:33 | IP NOT FOUND! REBOOT IN 24 seconds
+2015-04-28 22:17:33 | IP NOT FOUND! REBOOT IN 24 seconds
+2015-04-28 22:17:34 | IP NOT FOUND! REBOOT IN 23 seconds
+2015-04-28 22:17:34 | IP NOT FOUND! REBOOT IN 23 seconds
+2015-04-28 22:17:35 | IP NOT FOUND! REBOOT IN 22 seconds
+2015-04-28 22:17:35 | IP NOT FOUND! REBOOT IN 22 seconds
+2015-04-28 22:17:36 | IP NOT FOUND! REBOOT IN 21 seconds
+2015-04-28 22:17:36 | IP NOT FOUND! REBOOT IN 21 seconds
+2015-04-28 22:17:37 | IP NOT FOUND! REBOOT IN 20 seconds
+2015-04-28 22:17:37 | IP NOT FOUND! REBOOT IN 20 seconds
+2015-04-28 22:17:38 | IP NOT FOUND! REBOOT IN 19 seconds
+2015-04-28 22:17:38 | IP NOT FOUND! REBOOT IN 19 seconds
+2015-04-28 22:17:39 | IP NOT FOUND! REBOOT IN 18 seconds
+2015-04-28 22:17:39 | IP NOT FOUND! REBOOT IN 18 seconds
+2015-04-28 22:17:40 | IP NOT FOUND! REBOOT IN 17 seconds
+2015-04-28 22:17:40 | IP NOT FOUND! REBOOT IN 17 seconds
+2015-04-28 22:17:41 | IP NOT FOUND! REBOOT IN 16 seconds
+2015-04-28 22:17:41 | IP NOT FOUND! REBOOT IN 16 seconds
+2015-04-28 22:17:42 | IP NOT FOUND! REBOOT IN 15 seconds
+2015-04-28 22:17:42 | IP NOT FOUND! REBOOT IN 15 seconds
+2015-04-28 22:17:43 | IP NOT FOUND! REBOOT IN 14 seconds
+2015-04-28 22:17:43 | IP NOT FOUND! REBOOT IN 14 seconds
+2015-04-28 22:17:45 | IP NOT FOUND! REBOOT IN 13 seconds
+2015-04-28 22:17:45 | IP NOT FOUND! REBOOT IN 13 seconds
+2015-04-28 22:17:46 | IP NOT FOUND! REBOOT IN 12 seconds
+2015-04-28 22:17:46 | IP NOT FOUND! REBOOT IN 12 seconds
+2015-04-28 22:17:47 | IP NOT FOUND! REBOOT IN 11 seconds
+2015-04-28 22:17:47 | IP NOT FOUND! REBOOT IN 11 seconds
+2015-04-28 22:17:48 | IP NOT FOUND! REBOOT IN 10 seconds
+2015-04-28 22:17:48 | IP NOT FOUND! REBOOT IN 10 seconds
+2015-04-28 22:17:49 | IP NOT FOUND! REBOOT IN 9 seconds
+2015-04-28 22:17:49 | IP NOT FOUND! REBOOT IN 9 seconds
+2015-04-28 22:17:50 | IP NOT FOUND! REBOOT IN 8 seconds
+2015-04-28 22:17:50 | IP NOT FOUND! REBOOT IN 8 seconds
+2015-04-28 22:17:51 | IP NOT FOUND! REBOOT IN 7 seconds
+2015-04-28 22:17:51 | IP NOT FOUND! REBOOT IN 7 seconds
+2015-04-28 22:17:52 | IP NOT FOUND! REBOOT IN 6 seconds
+2015-04-28 22:17:52 | IP NOT FOUND! REBOOT IN 6 seconds
+2015-04-28 22:17:53 | IP NOT FOUND! REBOOT IN 5 seconds
+2015-04-28 22:17:53 | IP NOT FOUND! REBOOT IN 5 seconds
+2015-04-28 22:17:54 | IP NOT FOUND! REBOOT IN 4 seconds
+2015-04-28 22:17:54 | IP NOT FOUND! REBOOT IN 4 seconds
+2015-04-28 22:17:55 | IP NOT FOUND! REBOOT IN 3 seconds
+2015-04-28 22:17:55 | IP NOT FOUND! REBOOT IN 3 seconds
+2015-04-28 22:17:56 | IP NOT FOUND! REBOOT IN 2 seconds
+2015-04-28 22:17:56 | IP NOT FOUND! REBOOT IN 2 seconds
+2015-04-28 22:17:57 | IP NOT FOUND! REBOOT IN 1 seconds
+2015-04-28 22:17:57 | IP NOT FOUND! REBOOT IN 1 seconds
+2015-04-28 22:17:58 | IP NOT FOUND! REBOOT IN 0 seconds
+2015-04-28 22:17:58 | IP NOT FOUND! REBOOT IN 0 seconds
+2015-04-28 22:17:58 | IP NOT FOUND! MODULE IS GOING TO REBOOT!
+2015-04-28 22:17:58 | REBOOT!!!
+2015-04-28 22:17:58 | IP NOT FOUND! MODULE IS GOING TO REBOOT!
+
+
+2015-04-28 22:17:59 | Installing config files
+2015-04-28 22:17:59 | DONE Installing config files
+Initializing BCM
+Skipping motion, no camera connected
+Started logging...
+
+2015-04-28 22:18:28 | IP found: My IP is 172.16.0.191
+2015-04-28 22:18:28 | IP found: My IP is 172.16.0.191
+
+
+IP done, continue to configs.2015-04-28 22:18:30 | Installing config files
+2015-04-28 22:18:30 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-04-28 22:18:30 | Installing RC.LOCAL IN /etc/rc.local...
+2015-04-28 22:18:30 | DONE Installing config files
+Initializing BCM
+Skipping motion, no camera connected
+Started logging...
+
+2015-04-29 16:17:27 | IP found: My IP is 172.16.0.191
+2015-04-29 16:17:27 | IP found: My IP is 172.16.0.191
+
+
+IP done, continue to configs.2015-04-29 16:17:29 | Installing config files
+2015-04-29 16:17:29 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-04-29 16:17:29 | Installing RC.LOCAL IN /etc/rc.local...
+2015-04-29 16:17:29 | DONE Installing config files
+Initializing BCM
+Skipping motion, no camera connected
+Started logging...
+
+2015-04-29 16:17:26 | IP found: My IP is 10.0.3.231
+2015-04-29 16:17:26 | IP found: My IP is 10.0.3.231
+
+
+IP done, continue to configs.2015-04-29 16:17:30 | Installing config files
+2015-04-29 16:17:30 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-04-29 16:17:30 | DONE Installing config files
+Initializing BCM
+Skipping motion, no camera connected
+Started logging...
+
+2015-05-06 08:17:29 | IP found: My IP is 172.16.0.191
+2015-05-06 08:17:29 | IP found: My IP is 172.16.0.191
+
+
+IP done, continue to configs.2015-05-06 08:17:31 | Installing config files
+2015-05-06 08:17:31 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-05-06 08:17:31 | Installing RC.LOCAL IN /etc/rc.local...
+2015-05-06 08:17:31 | DONE Installing config files
+Initializing BCM
+Skipping motion, no camera connected
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Started logging...
+
+2015-05-06 08:17:27 | IP found: My IP is 172.16.0.191
+2015-05-06 08:17:27 | IP found: My IP is 172.16.0.191
+
+
+IP done, continue to configs.2015-05-06 08:17:29 | Installing config files
+2015-05-06 08:17:29 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-05-06 08:17:29 | Installing RC.LOCAL IN /etc/rc.local...
+2015-05-06 08:17:29 | DONE Installing config files
+Initializing BCM
+Skipping motion, no camera connected
+Started logging...
+
+2015-05-06 08:17:27 | IP found: My IP is 172.16.0.191
+2015-05-06 08:17:27 | IP found: My IP is 172.16.0.191
+
+
+IP done, continue to configs.2015-05-06 08:17:30 | Installing config files
+2015-05-06 08:17:30 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-05-06 08:17:30 | Installing RC.LOCAL IN /etc/rc.local...
+2015-05-06 08:17:30 | DONE Installing config files
+Initializing BCM
+Skipping motion, no camera connected
+Started logging...
+
+2015-05-06 08:17:32 | IP found: My IP is 172.16.0.191
+2015-05-06 08:17:32 | IP found: My IP is 172.16.0.191
+
+
+IP done, continue to configs.2015-05-06 08:17:34 | Installing config files
+2015-05-06 08:17:34 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-05-06 08:17:34 | Installing RC.LOCAL IN /etc/rc.local...
+2015-05-06 08:17:34 | DONE Installing config files
+Initializing BCM
+Starting motion
+Started logging...
+
+2015-05-06 16:17:13 | IP found: My IP is 172.16.0.191
+2015-05-06 16:17:13 | IP found: My IP is 172.16.0.191
+
+
+IP done, continue to configs.2015-05-06 16:17:15 | Installing config files
+2015-05-06 16:17:15 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-05-06 16:17:15 | Installing RC.LOCAL IN /etc/rc.local...
+2015-05-06 16:17:15 | Installing WLAN IN /etc/wpa_supplicant/wpa_supplicant.conf...
+2015-05-06 16:17:15 | DONE Installing config files
+Initializing BCM
+Skipping motion, no camera connected
+Started logging...
+
+2015-05-13 14:17:50 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-05-13 14:17:50 | IP NOT FOUND! REBOOT IN 30 seconds
+2015-05-13 14:17:52 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-05-13 14:17:52 | IP NOT FOUND! REBOOT IN 29 seconds
+2015-05-13 14:17:53 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-05-13 14:17:53 | IP NOT FOUND! REBOOT IN 28 seconds
+2015-05-13 14:17:54 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-05-13 14:17:54 | IP NOT FOUND! REBOOT IN 27 seconds
+2015-05-13 14:17:55 | IP NOT FOUND! REBOOT IN 26 seconds
+2015-05-13 14:17:55 | IP NOT FOUND! REBOOT IN 26 seconds
+2015-05-13 14:17:56 | IP NOT FOUND! REBOOT IN 25 seconds
+2015-05-13 14:17:56 | IP NOT FOUND! REBOOT IN 25 seconds
+2015-05-13 14:17:57 | IP found after 5 seconds!: My IP is 10.0.3.228
+2015-05-13 14:17:57 | IP found after 5 seconds!: My IP is 10.0.3.228
+
+
+IP done, continue to configs.2015-05-13 14:17:59 | Installing config files
+2015-05-13 14:17:59 | Installing CAMERA IN /etc/motion/motion.conf...
+2015-05-13 14:18:00 | Installing RC.LOCAL IN /etc/rc.local...
+2015-05-13 14:18:00 | Installing WLAN IN /etc/wpa_supplicant/wpa_supplicant.conf...
+2015-05-13 14:18:00 | DONE Installing config files
+Initializing BCM
+Skipping motion, no camera connected

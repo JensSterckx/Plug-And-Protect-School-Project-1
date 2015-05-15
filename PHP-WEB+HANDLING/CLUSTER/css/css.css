@@ -1,0 +1,205 @@
+body{
+	margin: 0px;
+}
+
+/*
+	Main Screen
+*/
+
+.main {
+    position: absolute;
+    left:178px; /*top:48px; right:0; bottom:auto;*/
+	background-size: cover;
+	color:black;
+	text-align:center;
+	width: 75%; /* fallback if needed */
+	/*We berekenen de correcte breedte (alles - sidenav)*/
+	width: calc(100% - 178px);
+}
+.kadertje {
+    margin: 5px;
+	margin-right:10px;
+    padding: 10px;
+    height: 160px;
+    float: left;
+    text-align: center;
+	background:gray;
+	color:white;
+	box-shadow:10px 10px 5px #888888;
+	border:solid #000000;
+	text-align: center;
+    font-weight: normal;
+    width: 160px;
+	
+	/* Radius */
+	-webkit-border-radius: 50px;
+	-webkit-border-top-right-radius: 0;
+	-moz-border-radius: 50px;
+	-moz-border-radius-topright: 0;
+	border-radius: 50px;
+	border-top-right-radius: 0;
+}
+
+.kadertje:hover{
+	background-color:lightgray;
+	color:#0f0f0f;
+	font-weight:bold;
+	cursor:pointer;
+	
+}
+.offline{
+	/*width:32px;
+	height:32px;*/
+	background-color:darkred;
+	/* background-image: url("rsz_offline.png"); */
+}
+.online{
+	/*width:32px;
+	height:32px;*/
+	background-color:darkgreen;
+	/* background-image: url("rsz_offline.png"); */
+}
+.hidden {
+	display: none;
+}
+.bold {
+	font-weight: bold;
+}
+
+.last_update {
+	font-size: 15px;
+}
+
+.LiveCam {
+	
+    border: 2px solid #000000;
+	box-shadow:10px 10px 5px #888888;
+	cursor: pointer;
+	/*float:left;*/
+}
+.SensorTabel{
+    margin-left:auto; 
+    margin-right:auto;
+}
+#ModuleManager {
+	/*width: 640px;
+	margin-left:auto;
+	margin-right:auto;*/
+}
+.intervalsnap {
+	display: inline !important;
+	width: 60px !important;
+	height: 30px !important;
+}
+.row.xl-width {
+	min-width:75% !important;
+}
+
+.close_modul_panel {
+	float: right;
+	cursor: pointer;
+}
+
+.close_modul_panel:hover {
+	color: red;
+}
+#LiveSensorPlace {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*Button collor change for alarm */
+.switch input:checked + label {
+    background: none repeat scroll 0 0 red !important;
+}
+
+/*
+	Top Nav
+*/
+.name {
+	width: 178px;
+	border-bottom: 1px solid #4e4e4e;
+}
+.top {
+    position:absolute;
+    left:0; right:0;
+    height: 48px;
+
+}
+
+/*
+	Side Nav
+*/
+.side-menu {
+    float: left;
+    width: 178px;
+	height: 100%;
+	padding-left: 20px;
+	background-color:#333;
+	z-index: 9999 !important;
+	color: white !important;
+}
+.side-menu-titel {
+	color:white;
+	padding-left: 5px;
+	font-size:25px;
+	font-weight:bold;
+}
+
+.side-menu-ul{
+	padding-top: 0px !important;
+	padding-left:10px;
+}
+.side-menu-ul li:hover{
+	background-color: #0f0f0f !important;
+}
+.side-menu-ul li a{
+	color: white !important;
+}
+ul.side-menu-title {
+	padding-top: 0px;
+}
+
+
+
+.camerapagina{
+	margin-left:640px;
+	margin-right:auto;
+	background-color:green;
+}
+.camerapagina2{
+	margin-left:450px;
+	margin-right:auto;
+	background-color:blue;
+}
+.center{
+	text-align:center;
+}
+
+/*
+	Settings pagina
+*/
+.moduleSettingsTabel {
+	margin-left: auto;
+	margin-right: auto;
+	width: 850px;
+    border-style: solid;
+    border-width: 5px;
+}
+.moduleSettingsTabel tr td:first-child {
+	width: 100px;
+}
+
+
+.nolistsymbol {
+	margin-left: 0;
+	margin-bottom: 0;
+    list-style-type: none;
+}
+
+/*
+.cameraclass{
+height:80% !important;
+width:80% !important;
+}
+*/

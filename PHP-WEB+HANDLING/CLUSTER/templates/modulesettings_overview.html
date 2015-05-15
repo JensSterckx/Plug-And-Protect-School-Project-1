@@ -1,0 +1,38 @@
+<?php
+/**
+ *	Plug & Protect
+ *
+ *	-> Sterckx Jens
+ *	-> Moinil Wesley
+ *	-> Dauwe Jelle
+ *
+ *
+ *
+ *	File: DashBoard file.
+ *		Dashboard template.
+**/
+
+
+?>
+	<?php 
+			if(isset($SaveResponse))
+			{
+				?>
+				<div data-alert class="alert-box success radius">
+				  <?php echo $SaveResponse; ?>
+				  <a href="#" class="close">&times;</a>
+				</div>
+				
+				<?php
+			}
+	?>
+	<h1>Module Settings overview</h1>
+			<!--<div class="kadertje">
+				<p>
+					<span class="bold" style="font-size: 15px;">module-wesleypi2</span>
+					<br>10.0.128.107<br>
+					<img alt="NEW" title="NEW" src="images/NEW">
+					<br>14H, 24M<br>
+				</p>
+			</div>-->
+	<?php echo $OverviewPrint; ?>

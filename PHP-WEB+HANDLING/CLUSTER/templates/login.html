@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Plug & Protect</title>
+	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/css/foundation.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/vendor/modernizr.js"></script>
+	
+
+	<script type="text/javascript" language="javascript" src="//code.jquery.com/jquery-2.1.3.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/foundation.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/foundation/foundation.topbar.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/foundation/foundation.reveal.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/foundation/foundation.tab.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/foundation/foundation.tooltip.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/foundation/foundation.alert.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/foundation/foundation.equalizer.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/foundation/foundation.abide.min.js"></script>
+	
+	
+	<link rel="stylesheet" type="text/css" href="css/log-in.css">
+	<script type="text/javascript" language="javascript" src="js/PP/login.js"></script>
+</head>
+<body>
+	<div class="loginvak">
+		<p class="onzetitel">
+			Plug & Protect
+		</p>
+		<fieldset class="login">
+			<legend>LOG-IN</legend>
+			<div class="row">
+				<label class="UnameElems">User Name (test)
+				<input type="text" placeholder="User Name" id="uname" class="UnameElems"/>
+				</label>
+				<small class="UnameElems"></small>
+			</div>
+			<div class="row">
+				<label class="PWElems">Password (test)
+				<input type="password" placeholder="Password" id="pw" class="PWElems"/>
+				</label>
+				<small class="PWElems"></small>
+			</div>	
+			<div class="row">
+				<input id="SendLoginDetails" type="button" class="PPButton" value="Log-In" />
+				<img id="rotater" src="images/loading.gif" alt="Loading..." />
+			</div>
+		</fieldset>
+		<?php echo $_SERVER["SERVER_ADDR"]; ?>
+	</div>
+	
+	<script>
+		$(document).foundation();
+	</script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+body {
+  background: url("../images/bg_log-in.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.loginvak{
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	border:3px solid black;
+	padding:9px 35px; 
+	background-color:white;
+	width:400px;
+	border-radius:20px;
+	box-shadow: 7px 7px 6px;
+	top:300px;
+}
+.PPButton{
+	margin-top:5px;
+	margin-left:85px;
+	border-radius:10px;
+	width:100px;
+	height:40px;
+	background:black;
+	color:white;
+	font-weight:bold;
+	font-size:20px
+}
+.onzetitel{
+	font-size:35px;
+	text-align:center;
+	font-weight: bold;
+}
+.login{
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+.valerror {
+	color: red;
+	font-weight: bold;
+}
+#rotater {
+	visibility: hidden;
+	width: 35px;
+	height: 35px;
+}
+.top {
+    position:absolute;
+    left:0; right:0;
+    border-style: solid;
+	height: 92px;
+	border-color:red;
+}
+.left {
+    position:absolute;
+    left:0; top:92px; bottom: 0;
+    width: 178px;
+	border-style: solid;
+	border-color:green;
+}
+.main {
+    position: absolute;
+    left:178px; top:92px; right:0; bottom:0;
+	border-style: solid;
+	border-color:purple;
+	background:url("../img/gta.png");
+	background-size: cover;
+	color:black;
+	text-align:center;
+}

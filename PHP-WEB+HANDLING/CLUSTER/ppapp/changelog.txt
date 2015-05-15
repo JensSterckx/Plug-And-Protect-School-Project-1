@@ -1,0 +1,10 @@
+V0.3 - 22/03/2015 23:18
+	-> Implemented login system using HTTP POST to PHP backed. (JS)
+		=> Must implement Session tokens later OR Check if PHP Sessions works ;)
+	
+V0.2 - 22/03/2015 21:30
+	-> Added MJPEG player to test the ability to display our WebCam streams. (JS)
+	
+V0.1 - 22/03/2015 17:15
+	-> LOGIN screen layout. (WM)
+	-> Basic DashBoard for testing purpose. (JS)

@@ -1,0 +1,56 @@
+<?php
+/**
+ *	Plug & Protect
+ *
+ *	-> Sterckx Jens
+ *	-> Moinil Wesley
+ *	-> Dauwe Jelle
+ *
+ *
+ *
+ *	File: DashBoard file.
+ *		Dashboard template.
+**/
+
+
+?>
+	<h1>DEV PAGE!</h1>
+	<div class="panel">
+		<div class="row">
+			<table id="moduleSettingsTabel">
+				<tr>
+					<td>
+						Naam Module
+					</td>
+					<td>
+						<input type="text" placeholder="Module Naam" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Module info
+					</td>
+					<td>
+						<textarea placeholder="Module informatie"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Type Module
+					</td>
+					<td>
+						<ul class="nolistsymbol">
+							<li><input id="cameracheck" type="checkbox"><label for="cameracheck">Camera</label></li>
+							<li><input id="temperaturecheck" type="checkbox"><label for="temperaturecheck">Temperature Sensor</label></li>
+							<li><input id="lightcheck" type="checkbox"><label for="lightcheck">Light Sensor</label></li>
+							<li><input id="alarmcheck" type="checkbox"><label for="alarmcheck">Alarm</label></li>
+						</ul>
+					</td>
+				</tr>
+			</table>
+			<p>
+				<a href="#" class="button success">Save</a>
+				<a href="#" class="button info">Reset</a>
+			</p>
+		</div>
+	</div>
