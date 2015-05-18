@@ -1,0 +1,20 @@
+<VirtualHost *:80>
+	ServerName www.plugandprotect.eu
+	ServerAlias plugandprotect.eu
+	ServerAdmin jens@lightninghosting.eu
+	
+	DocumentRoot /var/www/html
+
+	ErrorLog ${APACHE_LOG_DIR}/error.log
+	CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+	ProxyPreserveHost on
+	ProxyRequests off
+	
+	
+	
+{PROXY}
+
+	ProxyPass / http://cluster.plugandprotect.eu/ retry=0 disablereuse=on
+
+</VirtualHost>
