@@ -119,7 +119,7 @@ function moduleOverview()
 			TYPE = TYPE.split("+");
 			for (j = 0; j < TYPE.length; j++)
 			{
-				TYPEIMG = TYPEIMG + "<img src=\"images/" + TYPE[j] + "\" title=\"" + TYPE[j] + "\" alt=\"" + TYPE[j] + "\"/>";
+				TYPEIMG = TYPEIMG + "<img src=\"images/" + TYPE[j] + ".png\" title=\"" + TYPE[j] + "\" alt=\"" + TYPE[j] + "\"/>";
 			}
 			
 			HTMLBlock.innerHTML = HTMLBlock.innerHTML + '<a href="#ModuleManage#' + MAC +'"><div class="kadertje online"><p><span class="bold">' + NAME + '</span><br />' + IP + '<br />' + TYPEIMG + '<br />' + UPTIME + '<br /></p></div></a>';
@@ -143,7 +143,7 @@ function moduleOverview()
 			TYPE = TYPE.split("+");
 			for (j = 0; j < TYPE.length; j++)
 			{
-				TYPEIMG = TYPEIMG + "<img src=\"images/" + TYPE[j] + "\" title=\"" + TYPE[j] + "\" alt=\"" + TYPE[j] + "\"/>";
+				TYPEIMG = TYPEIMG + "<img src=\"images/" + TYPE[j] + ".png\" title=\"" + TYPE[j] + "\" alt=\"" + TYPE[j] + "\"/>";
 			}
 			
 			HTMLBlock.innerHTML = HTMLBlock.innerHTML + '<a href="#ModuleManage#' + MAC +'"><div class="kadertje offline"><p><span class="bold">' + NAME + '</span><br />' + IP + '<br />' + TYPEIMG + '<br /><span class="last_update">' + UPTIME + '</span><br /></p></div></a>';
