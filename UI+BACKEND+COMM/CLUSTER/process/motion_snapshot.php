@@ -65,7 +65,7 @@ if(isset($_GET["MAC"]))
 	
 	if(empty($ImageArray))
 	{
-		$ImageArray[0] = "images/motion/none.png";
+		$ImageArray[0] = "images/motion/none.jpg";
 	}
 	
 	echo json_encode($ImageArray);
